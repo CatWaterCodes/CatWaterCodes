@@ -10,4 +10,4 @@
 - [An assistant chatbot within a web app using Ollama](https://github.com/CatWaterCodes/assistant-chatbot)
 - [My game PlotTwistr, available on itch.io](https://catwater.itch.io)
 ## Studies:
-I'm currently studying in France: I'm taking the ["C.M.I. informatique, image, réalité virtuelle, interactions et jeux" at UniStra](https://mathinfo.unistra.fr/formations/cursus-master-ingenierie-en-informatique/odf-parcours-cursus-master-ingenierie-cmi-informatique-image-realite-virtuelle-interactions-et-jeux-PR1234-18114/)
+I'm currently studying in France: I'm taking the ["C.M.I. informatique, image, réalité virtuelle, interactions et jeux" course at UniStra](https://mathinfo.unistra.fr/formations/cursus-master-ingenierie-en-informatique/odf-parcours-cursus-master-ingenierie-cmi-informatique-image-realite-virtuelle-interactions-et-jeux-PR1234-18114/)
