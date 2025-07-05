@@ -6,7 +6,7 @@
 ## Noteworthy Projects:
 - [A console app that turns images into parallax wallpapers, compatible with any app that uses web based wallpapers made in HTML/CSS/JS](https://github.com/CatWaterCodes/ImageToParallaxWallpaper)
 - [Another console app that takes a video and applies an ascii art filter to it](https://github.com/CatWaterCodes/Video-To-ASCII-Art)
-- [My ongoing attempt (not completely function yet) to make my own IDE using C# and WPF](https://github.com/CatWaterCodes/CatWaterCodesIDE)
+- [My ongoing attempt (not completely functional yet) to make my own IDE using C# and WPF](https://github.com/CatWaterCodes/CatWaterCodesIDE)
 - [An assistant chatbot within a web app using Ollama](https://github.com/CatWaterCodes/assistant-chatbot)
 - [My game PlotTwistr, available on itch.io](https://catwater.itch.io)
 ## Studies:
