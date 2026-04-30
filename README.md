@@ -1,5 +1,5 @@
 # About Me:
-- I'm a 17 year old developer from Greece
+- I'm an 18 year old developer from Greece
 - I'm interested in game development, shader programming and image manipulation
 - I have quite a bit of experience with C#, Python and web development
 # Noteworthy Projects:
